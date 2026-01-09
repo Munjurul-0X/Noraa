@@ -1,0 +1,8 @@
+{
+  "name": "NOORA - Premium E-commerce",
+  "description": "A high-end, minimalist e-commerce platform for the Bangladesh market, built with a brand-first philosophy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
